@@ -36,7 +36,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```
-   git clone 
+   git clone https://github.com/riyadvaliyev/personal-dev-website.git
    ```
 
 2. **Navigate to the project directory**:
