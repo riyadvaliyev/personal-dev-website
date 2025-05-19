@@ -1,6 +1,6 @@
 # Personal Developer Website
 
-This is a personal website project for a developer, showcasing skills, projects, and providing contact information.
+This is my personal developer website project, showcasing skills, projects, and providing contact information.
 
 ## Project Structure
 
@@ -36,7 +36,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone 
    ```
 
 2. **Navigate to the project directory**:
