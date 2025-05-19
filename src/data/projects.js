@@ -4,7 +4,7 @@ const projects = [
         title: "Personal Portfolio",
         description: "A personal portfolio website to showcase my projects and share my educational and professional infromation.",
         technologies: ["HTML", "CSS", "JavaScript", "React"],
-        link: "https://github.com/riyadvaliyev/personal-portfolio",
+        link: "https://github.com/riyadvaliyev/personal-dev-website",
     },
     {
         id: 2,
